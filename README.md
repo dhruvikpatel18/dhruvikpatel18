@@ -5,7 +5,7 @@
 ## I am Software enthusiast and have Experienced in development and deployment of various software applications.
 
 - 👨‍💻 I’m currently working on edtech project using MERN stack.
-- 📚 Learning everything about Frontend and Backend technologies 😅
+- 📚 Learning everything about Frontend and Backend technologies!
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
