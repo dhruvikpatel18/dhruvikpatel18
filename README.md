@@ -33,5 +33,13 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvikpatel18&theme=great-gatsby&layout=compact)](https://github.com/dhruvikpatel18)
-
 <br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvik-malaviya/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malaviya.dhruvik@gmail.com)
+[![image](https://img.shields.io/badge/LeetCode-0077Y5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Dhruvikpatel/)
+[![image](https://img.shields.io/badge/stackoverflow-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15614047/dhruvik-malaviya)
+  
+</div>
